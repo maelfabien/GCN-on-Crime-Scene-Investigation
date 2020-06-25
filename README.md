@@ -22,6 +22,8 @@ In PyGCN, go to:
 
 `CSI_GCN.ipynb`
 
+Using Plotly, intermediate embeddings are displayed over the number of epochs:
+
 ![](images/emb.png)
 
 ## References
